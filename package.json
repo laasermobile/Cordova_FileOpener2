@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwlin/cordova-plugin-file-opener2.git"
+    "url": "https://github.com/laasermobile/Cordova_FileOpener2.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -30,7 +30,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pwlin/cordova-plugin-file-opener2/issues"
+    "url": "https://github.com/laasermobile/Cordova_FileOpener2.git/issues"
   },
-  "homepage": "https://github.com/pwlin/cordova-plugin-file-opener2#readme"
+  "homepage": "https://github.com/laasermobile/Cordova_FileOpener2.git#readme"
 }
